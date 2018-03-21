@@ -5,7 +5,7 @@
 
 body {
 
-	font-family:sans-serif ; 
+	font-family:sans-serif; 
 	font-size:15px; 
 	
 	}
@@ -32,11 +32,13 @@ table {
 	left: 105px; 
 	color: #ffffff; 
 	font-size:12px; 
+	
 	}
 	
 	
 td {
 	padding: 0 5px 3px 5px; 
+	
 	}
 	
 h1 {
@@ -45,59 +47,52 @@ h1 {
 	top: 30px; 
 	color: #ffffff; 
 	font-size: 38px; 
+	
 	}
 
 input {
 	height: 22px; 
 	
 	}
+
 #submit {
 	background: teal; 
 	border: 1px solid #000000; 
 	padding: 2px 5px; 
 	color: #ffffff;
 	height: 20px;  
+	
 	}
 	
 .clear {
 	clear: both; 
+	
 	}
 
 #main-body-section {
-
 	width:100%; 
 	height: 628px; 
-	background-color:#f0ffff; 
-
-	
+	background-color:#f0ffff;
 	
 	}
 	
 #fb-info {
-
 	width:40%; 
 	height: 628px; 
 	float: left; 
 	margin-left: 150px; 
 	margin-top: 65px; 
 	
-	
-	 
-	
 	}
+
 #sign-up {
 	float: right; 
 	width:43%; 
 	height: 628px; 
-	 
-	
-	
-
 
 	}
 	
 hr {
-
 	width:80%; 
 	color:grey; 
 	margin:10px 0 15px 0; 
@@ -105,7 +100,6 @@ hr {
 	}
 
 img {
-
 	width:55px; 
 	margin:0px 10px 10px 0; 
 	padding:10px 0px 10px 0px; 
@@ -113,14 +107,12 @@ img {
 	}
 
 #terms {
-
 	font-size:11px; 
 	width:295px; 
 	
 	}
 	
 #create-account {
-
 	border:1px solid #000000; 
 	border-radius:6px; 
 	background-color:green; 
@@ -130,20 +122,20 @@ img {
 	padding: 5px 20px; 
 	font-size:20px; 
 	margin-top:10px; 
+	
 	}
 	
 	
 #sign-up-text {
-
 	color:#000000; 
 	margin-top: 20px; 
 	margin-bottom:5px; 
 	font-size:34px;  
 	font-weight:bold; 
+	
 	}
 	
 a {
-
 	font-size:11px; 
 	text-decoration: none; 
 	color:#4169E1; 
@@ -151,7 +143,6 @@ a {
 	}
 	
 .names {
-
 	height:35px;
 	width:180px;  
 	border:1px solid grey; 
@@ -185,7 +176,6 @@ a {
 
 
 #connect-text {
-
 	font-size:26px; 
 	margin-bottom:40px;
 	
@@ -193,16 +183,19 @@ a {
 
 #forgot-account {
 	color: #abffff; 
+	
 	}
-.label-text {
 
+.label-text {
 	font-size:18px;
 	font-weight:normal !important;  
+	
 	}
 	
 .sign-up-gap {
 	margin-top:20px; 
 	margin-bottom:10px; 
+	
 	}
 	
 #birthday-text {
@@ -211,13 +204,11 @@ a {
 	left:-205px; 
 	top:-4px;  
 	width:150px; 
-	float:right; 
-	  
+	float:right;   
 	
 	}
 	
 #bottom-section {
-
 	clear:both; 
 	position:relative; 
 	top: -55px;  
@@ -227,15 +218,14 @@ a {
 
 	
 ul li {
-
 	list-style-type: none; 
 	margin-right: 10px; 
 	float: left; 
 	margin-bottom: 10px; 
 	 
 	}
-#bottom-hr {
 
+#bottom-hr {
 	width:100%; 
 	 
 	}
